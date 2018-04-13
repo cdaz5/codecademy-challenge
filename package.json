@@ -1,0 +1,11 @@
+{
+  "name": "tea-cozy",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:cdaz5/codecademy-challenge.git",
+  "author": "Chris Dascoli <chris.dascoli@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer"
+  }
+}

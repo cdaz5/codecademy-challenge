@@ -5,7 +5,7 @@ Create a fictional tea shop according to spec provided in vanilla HTML and CSS.
 
 ## Getting Started
 
-Simply right click the index.html file and select open in browser.
+Simply clone the project and right click the index.html file and select open in browser.
 
 ## Brief Discussion
 
